@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 	
-   iint largeurSol;
+   int largeurSol;
    int largeurFaceSup;
    int somme =0;
 
